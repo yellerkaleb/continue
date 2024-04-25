@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+}
+input[type="text"] {
+    padding: 5px 10px;
+    font-size: 16px;
+}
+
+textarea {
+    width: 300px;
+    height: 100px;
+}
+#website {
+    margin-top: 20px;
+}
